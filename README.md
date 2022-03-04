@@ -7,6 +7,7 @@ https://github.com/akva449/xotcraftpacks/raw/main/Releases/Download/XotCraftPack
 Скачать эмоции (самая новая версия):
 https://github.com/akva449/xotcraftpacks/raw/main/Releases/Download/XotCraftEmotes.1.0/XotCraftEmotes.1.0.zip
 
+
 Java:
 
 Версия: Fabric 1.18.1
