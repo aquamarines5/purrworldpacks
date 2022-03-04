@@ -1,2 +1,2 @@
-# xotcraftapp
+# xotcraftpacks
 Клиентский модпак сервера XotCraft
