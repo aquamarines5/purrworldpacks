@@ -1,1 +1,1 @@
-hello, boyfriend or girlfriend <3
+Hi, guy or girl <3
