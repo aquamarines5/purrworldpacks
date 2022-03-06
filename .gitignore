@@ -1,7 +1,8 @@
-git rm -r --cached /Releases/
+git rm -r --cached /releases/
 
-/Releases/Download
-/Releases/
+/releases/
 
-/Releases/Download/XotCraftEmotes.1.0
-/Releases/Download/XotCraftPack.1.0
+/releases/XotCraftPack.1.1
+/releases/XotCraftPack.1.1.Fabric-1.18.2
+/releases/XotCraftPack.1.1.Fabric-1.18.2.zip
+/releases/XotCraftPack.1.1.zip
