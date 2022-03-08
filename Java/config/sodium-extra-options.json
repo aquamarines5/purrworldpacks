@@ -1,0 +1,56 @@
+{
+  "animation_settings": {
+    "animation": false,
+    "water": false,
+    "lava": false,
+    "fire": false,
+    "portal": false,
+    "block_animations": false
+  },
+  "particle_settings": {
+    "particles": false,
+    "rain_splash": false,
+    "explosion": false,
+    "water": false,
+    "smoke": false,
+    "potion": false,
+    "portal": false,
+    "redstone": false,
+    "drip": false,
+    "firework": false,
+    "bubble": false,
+    "environment": false,
+    "villagers": false,
+    "composter": false,
+    "block_break": false,
+    "block_breaking": false
+  },
+  "detail_settings": {
+    "sky": false,
+    "sun_moon": false,
+    "stars": false,
+    "rain_snow": false,
+    "biome_colors": false,
+    "sky_colors": false
+  },
+  "render_settings": {
+    "fog_distance": 0,
+    "light_updates": true,
+    "item_frame": true,
+    "armor_stand": true,
+    "painting": true,
+    "piston": true
+  },
+  "extra_settings": {
+    "overlay_corner": "TOP_LEFT",
+    "show_fps": true,
+    "show_f_p_s_extended": false,
+    "show_coords": false,
+    "reduce_resolution_on_mac": true,
+    "cloud_height": 192,
+    "toasts": true,
+    "instant_sneak": false,
+    "prevent_shaders": false,
+    "use_fast_random": true
+  }
+}
