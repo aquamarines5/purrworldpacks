@@ -1,7 +1,8 @@
 # xotcraftpacks
 Клиентский модпак сервера XotCraft
 
-Скачать модпак [Новая версия 1.2]:
+Скачать модпак [Новая версия 1.2] (08.03.2022):
+
 https://github.com/akva449/xotcraftpacks/raw/main/releases/XotCraftPack.1.2.Fabric-1.18.2.zip
 
 Java:
