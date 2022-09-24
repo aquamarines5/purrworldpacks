@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1E5abkPNL7kiOsffjRc8JfS2RNySpHr0e/view?usp=shari
 
 Java: 16
 
-Версия Minecraft: Fabric 1.16.5
+Версия Minecraft: 1.16.5
 
 Версия Fabric (загрузчика): 0.14.9
 
