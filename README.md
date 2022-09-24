@@ -3,7 +3,7 @@
 
 Скачать модпак [Версия 1.0] (24.09.2022):
 
-https://github.com/akva449/xotcraftpacks/raw/main/releases/XotCraftPack.1.4.Fabric-1.18.2.zip
+https://github.com/akva449/xotworldspacks/raw/main/releases/XotWorldsPack.1.0.Fabric-1.16.5.zip
 
 Java:
 Версия: Fabric 1.16.5
