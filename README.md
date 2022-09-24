@@ -15,6 +15,8 @@ https://drive.google.com/file/d/1E5abkPNL7kiOsffjRc8JfS2RNySpHr0e/view?usp=shari
 
 -----------------------------------------------------------------------------------------------------
 
+https://fabricmc.net/assets/logo.png
+
 Java:
 
 Версия: Fabric 1.16.5
