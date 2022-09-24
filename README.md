@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1E5abkPNL7kiOsffjRc8JfS2RNySpHr0e/view?usp=shari
 
 -----------------------------------------------------------------------------------------------------
 
-https://fabricmc.net/assets/logo.png
+![logo](https://user-images.githubusercontent.com/75758629/192112078-9bfa4832-823f-4bd1-ab6c-e1480bc2b62b.png)
 
 Java:
 
