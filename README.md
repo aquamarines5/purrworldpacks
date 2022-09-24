@@ -7,6 +7,12 @@ https://github.com/akva449/xotworldspacks/raw/main/releases/XotWorldsPack.1.0.Fa
 
 -----------------------------------------------------------------------------------------------------
 
+РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
+
+https://drive.google.com/file/d/1E5abkPNL7kiOsffjRc8JfS2RNySpHr0e/view?usp=sharing
+
+-----------------------------------------------------------------------------------------------------
+
 Java:
 
 Версия: Fabric 1.16.5
