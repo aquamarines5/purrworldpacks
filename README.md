@@ -17,10 +17,10 @@ https://drive.google.com/file/d/1E5abkPNL7kiOsffjRc8JfS2RNySpHr0e/view?usp=shari
 
 ![logo](https://user-images.githubusercontent.com/75758629/192112078-9bfa4832-823f-4bd1-ab6c-e1480bc2b62b.png)
 
-Java:
+Java: 16
 
-Версия: Fabric 1.16.5
+Версия Minecraft: Fabric 1.16.5
 
-Fabric Loader 0.14.9
+Версия Fabric (загрузчика): 0.14.9
 
 https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.1/fabric-installer-0.11.1.jar
