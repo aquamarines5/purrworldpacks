@@ -1,4 +1,4 @@
-# xotworldspacks
+# XotWorldsPacks
 Клиентский модпак сервера XotWorlds
 
 Скачать модпак [Версия 1.0] (24.09.2022):
