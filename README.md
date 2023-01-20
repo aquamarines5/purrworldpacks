@@ -2,9 +2,9 @@
 
 Клиентский модпак сервера XotWorlds
 
-Скачать модпак [Версия 1.0] (24.09.2022):
+Скачать модпак [Версия 1.1] (20.01.2023):
 
-https://github.com/akva449/xotworldspacks/raw/main/releases/XotWorldsPack.1.0.Fabric-1.16.5.zip
+https://github.com/akva449/xotworldspacks/raw/main/Releases/XotWorldsPack.1.1.Fabric-1.18.2.zip
 
 -----------------------------------------------------------------------------------------------------
 
