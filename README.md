@@ -18,9 +18,9 @@ https://www.dropbox.com/s/tx8gs59kwbs3ks6/emotes.zip?dl=1
 
 ![logo](https://user-images.githubusercontent.com/75758629/192112078-9bfa4832-823f-4bd1-ab6c-e1480bc2b62b.png)
 
-Java: 16
+Java: 17
 
-Версия Minecraft: 1.16.5
+Версия Minecraft: 1.18.2
 
 Версия Fabric (загрузчика): 0.14.9
 
