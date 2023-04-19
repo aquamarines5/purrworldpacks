@@ -2,9 +2,9 @@
 
 Клиентский модпак сервера XotWorlds
 
-Скачать модпак [Версия 1.1] (20.01.2023):
+Скачать модпак [Версия 1.2] (19.04.2023):
 
-https://github.com/akva449/xotworldspacks/raw/main/Releases/XotWorldsPack.1.1.Fabric-1.18.2.zip
+https://github.com/akva449/xotworldspacks/releases/download/minecraft/XotWorldsPack.1.2.Fabric-1.19.4.zip
 
 -----------------------------------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@ https://www.dropbox.com/s/tx8gs59kwbs3ks6/emotes.zip?dl=1
 
 Java: 17
 
-Версия Minecraft: 1.18.2
+Версия Minecraft: 1.19.4
 
-Версия Fabric (загрузчика): 0.14.9
+Версия Fabric (загрузчика): 0.14.19
 
-https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.1/fabric-installer-0.11.1.jar
+https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.2/fabric-installer-0.11.2.jar
