@@ -12,7 +12,7 @@ https://github.com/akva449/xotworldspacks/releases/download/minecraft/XotWorldsP
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
-https://www.dropbox.com/s/tx8gs59kwbs3ks6/emotes.zip?dl=1
+https://github.com/akva449/xotworldspacks/releases/download/minecraft/emotes.zip
 
 -----------------------------------------------------------------------------------------------------
 
