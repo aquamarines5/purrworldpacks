@@ -4,7 +4,7 @@
 
 Скачать модпак [Версия 1.2] (19.04.2023):
 
-https://github.com/akva449/xotworldspacks/releases/download/minecraft/XotWorldsPack.1.2.Fabric-1.19.4.zip
+[https://github.com/akva449/xotworldspacks/releases/download/xotworlds/XotWorldsPack.1.3.Fabric-1.19.4.zip](https://github.com/akva449/xotworldspacks/releases/download/xotworlds/XotWorldsPack.1.3.Fabric-1.19.4.zip)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ https://github.com/akva449/xotworldspacks/releases/download/minecraft/XotWorldsP
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
-https://github.com/akva449/xotworldspacks/releases/download/minecraft/emotes.zip
+[https://github.com/akva449/xotworldspacks/releases/download/xotworlds/emotes.zip](https://github.com/akva449/xotworldspacks/releases/download/xotworlds/emotes.zip)
 
 -----------------------------------------------------------------------------------------------------
 
