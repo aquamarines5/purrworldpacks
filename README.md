@@ -20,7 +20,9 @@
 
 Java: 17
 
-Версия Minecraft: 1.20.1 (Если у вас лаунчер Legacy Launcher (Бывший TL Legacy) можете выбрать версию в нём Fabric 1.20.1)
+(Если у вас лаунчер Legacy Launcher (Бывший TL Legacy) можете выбрать версию в нём Fabric 1.20.1)
+
+Версия Minecraft: 1.20.1
 
 Версия Fabric (загрузчика): 0.14.22
 
