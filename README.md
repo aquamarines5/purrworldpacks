@@ -2,9 +2,9 @@
 
 Клиентский модпак для сервера XotWorlds
 
-Скачать модпак [Версия 1.3] (07.07.2023):
+Скачать модпак [Версия 2.0] (02.09.2023):
 
-[https://github.com/akva449/xotworldspacks/releases/download/xotworlds/XotWorldsPack.1.3.Fabric-1.19.4.zip](https://github.com/akva449/xotworldspacks/releases/download/xotworlds/XotWorldsPack.1.3.Fabric-1.19.4.zip)
+[https://github.com/akva449/xotworldspacks/releases/download/xotworldspack/XotWorldsPack.2.0.Fabric-1.20.1.zip](https://github.com/akva449/xotworldspacks/releases/download/xotworldspack/XotWorldsPack.2.0.Fabric-1.20.1.zip)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 Java: 17
 
-Версия Minecraft: 1.19.4
+Версия Minecraft: 1.20.1 (Если у вас лаунчер Legacy Launcher (Бывший TL Legacy) можете выбрать версию в нём Fabric 1.20.1)
 
-Версия Fabric (загрузчика): 0.14.19
+Версия Fabric (загрузчика): 0.14.22
 
 https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.2/fabric-installer-0.11.2.jar
