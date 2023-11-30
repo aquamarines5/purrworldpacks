@@ -22,12 +22,13 @@
 
 ![logo](https://user-images.githubusercontent.com/75758629/192112078-9bfa4832-823f-4bd1-ab6c-e1480bc2b62b.png)
 
-Java: 17
+Java: 17 для 1.20.1
+Java: 16 для 1.16.5
 
-(Если у вас лаунчер Legacy Launcher (Бывший TL Legacy) можете выбрать версию в нём Fabric 1.20.1)
+(Если у вас лаунчер Legacy Launcher (Бывший TL Legacy) можете выбрать версию в нём Fabric 1.20.1 или Fabric 1.16.5)
 
+Fabric для 1.20.1:
 Версия Minecraft: 1.20.1
-
 Версия Fabric (загрузчика): 0.14.22
 
 https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.2/fabric-installer-0.11.2.jar
