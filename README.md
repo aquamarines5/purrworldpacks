@@ -1,6 +1,6 @@
-![XotWorldsPacks](https://user-images.githubusercontent.com/75758629/192112792-f83116dc-5b66-404a-a21d-fe6e4aceac95.png)
+![PurrWorldPacks](https://user-images.githubusercontent.com/75758629/192112792-f83116dc-5b66-404a-a21d-fe6e4aceac95.png)
 
-Клиентский модпак для сервера XotWorlds
+Клиентский модпак для сервера PurrWorld
 
 Скачать модпак 1.20.1 [Версия 2.0] (02.09.2023):
 
