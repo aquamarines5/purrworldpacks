@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![SPE_Successful pose](https://user-images.githubusercontent.com/75758629/192112025-bc2622db-85a6-4f00-bcca-bb0bf8dd55d4.png)
+![Emote](https://github.com/akva449/purrworldpacks/blob/main/emote.png)
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
