@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![Emote](https://github.com/akva449/purrworldpacks/blob/main/emote.png) 
+![Emote](https://github.com/akva449/purrworldpacks/blob/main/PWEmote.png) 
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
