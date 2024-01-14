@@ -1,4 +1,4 @@
-![PurrWorldPacks](https://user-images.githubusercontent.com/75758629/192112792-f83116dc-5b66-404a-a21d-fe6e4aceac95.png)
+![PurrWorldPacks](https://github.com/akva449/purrworldpacks/blob/main/PurrWorldPacks.png?raw=true)
 
 Клиентский модпак для сервера PurrWorld
 
