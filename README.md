@@ -1,4 +1,4 @@
-![PurrWorldPacks](https://github.com/akva449/purrworldpacks/blob/main/PurrWorldPacks.png?raw=true)
+![PurrWorldPacks](https://github.com/akva449/purrworldpacks/blob/main/PurrWorldPacks.png)
 
 Клиентский модпак для сервера PurrWorld
 
