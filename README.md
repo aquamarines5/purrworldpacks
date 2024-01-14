@@ -8,8 +8,7 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![Emote](https://github.com/akva449/purrworldpacks/blob/main/emote.png)
-РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
+![Emote](https://github.com/akva449/purrworldpacks/blob/main/emote.png) РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
 [https://github.com/akva449/purrworldpacks/releases/download/xotworlds/emotes.zip](https://github.com/akva449/xotworldspacks/releases/download/xotworlds/emotes.zip)
 
