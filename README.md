@@ -2,9 +2,9 @@
 
 Клиентский модпак для сервера PurrWorld
 
-Скачать модпак 1.16.5 [Версия 1.0] (30.11.2023):
+Скачать модпак 1.16.5 [Версия 2.0] (20.01.2024):
 
-[https://github.com/akva449/purrworld/releases/download/xw/XotWorldsPack.1.0.Fabric-1.16.5.zip](https://github.com/akva449/xotworldspacks/releases/download/xw/XotWorldsPack.1.0.Fabric-1.16.5.zip)
+[https://github.com/akva449/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva449/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
-[https://github.com/akva449/purrworldpacks/releases/download/xotworlds/emotes.zip](https://github.com/akva449/xotworldspacks/releases/download/xotworlds/emotes.zip)
+[https://github.com/akva449/purrworldpacks/releases/download/purrworld/emotes.zip](https://github.com/akva449/purrworldpacks/releases/download/purrworld/emotes.zip)
 
 -----------------------------------------------------------------------------------------------------
 
