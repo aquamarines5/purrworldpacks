@@ -1,18 +1,18 @@
-![PurrWorldPacks](https://github.com/akva449/purrworldpacks/blob/main/PurrWorldPacks.png)
+![PurrWorldPacks](https://github.com/aquamarines5/purrworldpacks/blob/main/PurrWorldPacks.png)
 
 Клиентский модпак для сервера PurrWorld
 
 Скачать модпак 1.16.5 [Версия 2.0] (20.01.2024):
 
-[https://github.com/akva449/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva449/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip)
+[https://github.com/aquamarines5/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/aquamarines5/purrworldpacks/releases/download/purrworld/PurrWorldPack.2.0.Fabric-1.16.5.zip)
 
 -----------------------------------------------------------------------------------------------------
 
-![Emote](https://github.com/akva449/purrworldpacks/blob/main/PW-Emote.png) 
+![Emote](https://github.com/aquamarines5/purrworldpacks/blob/main/PW-Emote.png) 
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
-[https://github.com/akva449/purrworldpacks/releases/download/purrworld/emotes.zip](https://github.com/akva449/purrworldpacks/releases/download/purrworld/emotes.zip)
+[https://github.com/aquamarines5/purrworldpacks/releases/download/purrworld/emotes.zip](https://github.com/aquamarines5/purrworldpacks/releases/download/purrworld/emotes.zip)
 
 -----------------------------------------------------------------------------------------------------
 
